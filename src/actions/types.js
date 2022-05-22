@@ -1,0 +1,7 @@
+export const REGISTER_USER = "REGISTER_USER";
+export const LOGIN_USER = "LOGIN_USER";
+export const CREATE_TICKET = "CREATE_TICKET";
+export const LIST_TICKET = "LIST_TICKET";
+export const UPDATE_TICKET = "UPDATE_TICKET";
+export const DELETE_TICKET = "DELETE_TICKET";
+
